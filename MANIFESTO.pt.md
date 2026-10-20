@@ -110,4 +110,4 @@ Mentes que não compreendemos já trabalham entre nós. A pergunta não é se al
 
 ---
 
-Manifesto Nescience © 2026 Lucas Parenti. Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br). Você pode copiar, redistribuir, adaptar e usar para qualquer fim, inclusive comercial, desde que dê o crédito apropriado: "Nescience — idealizado por Lucas Parenti, Porto Alegre, 2026".
+Manifesto Nescience © 2026 Lucas Parenti. DOI: [10.5281/zenodo.23502521](https://doi.org/10.5281/zenodo.23502521). Repositório: [github.com/4eXSolutions/nescience](https://github.com/4eXSolutions/nescience). Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br). Você pode copiar, redistribuir, adaptar e usar para qualquer fim, inclusive comercial, desde que dê o crédito apropriado: "Nescience — idealizado por Lucas Parenti, Porto Alegre, 2026".

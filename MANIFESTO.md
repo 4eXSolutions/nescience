@@ -110,4 +110,4 @@ Minds we do not understand already work among us. The question is not whether so
 
 ---
 
-The Nescience Manifesto © 2026 Lucas Parenti. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may copy, redistribute, adapt and use it for any purpose, including commercially, provided you give appropriate credit: "Nescience — conceived by Lucas Parenti, Porto Alegre, 2026".
+The Nescience Manifesto © 2026 Lucas Parenti. DOI: [10.5281/zenodo.23502521](https://doi.org/10.5281/zenodo.23502521). Repository: [github.com/4eXSolutions/nescience](https://github.com/4eXSolutions/nescience). Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may copy, redistribute, adapt and use it for any purpose, including commercially, provided you give appropriate credit: "Nescience — conceived by Lucas Parenti, Porto Alegre, 2026".

@@ -31,7 +31,7 @@ Today's most capable AI systems cannot be reliably inspected from the inside: in
 
 ## Citation
 
-> Parenti, L. (2026). *The Nescience Manifesto.* [DOI PENDING — Zenodo]. Licensed CC BY 4.0.
+> Parenti, L. (2026). *The Nescience Manifesto.* Porto Alegre, Brazil. ORCID: [0009-0007-5559-4167](https://orcid.org/0009-0007-5559-4167). DOI: [10.5281/zenodo.23502521](https://doi.org/10.5281/zenodo.23502521). Licensed CC BY 4.0.
 
 ## License
 
