@@ -1,0 +1,39 @@
+Nescience. Enlightenment leads to benightedness; Science entails nescience.
+
+Construímos mentes que não compreendemos. E as colocamos para trabalhar antes de aprender a verificar o que elas pensam.
+
+Esse é o fato central do nosso tempo. Nem os laboratórios que treinam esses sistemas, nem os governos que os regulam, nem os próprios sistemas conseguem hoje responder com segurança a uma pergunta simples: esta inteligência artificial está fazendo o que diz que faz?
+
+A pesquisa de ponta confirma o problema. A interpretabilidade, que é a tentativa de ler o que acontece dentro de um modelo, compreende hoje menos de cinco por cento das computações dos sistemas mais avançados. E os dados mostram que capacidade e segurança quase não se correlacionam: os modelos ficam mais poderosos muito mais rápido do que ficam mais confiáveis.
+
+Quanto mais luz, mais sombra. Quanto mais ciência, mais consciência do que não sabemos. É daí que vem o nome. Nescience é a palavra latina para o não-saber. Nós a escolhemos porque a ignorância não é o inimigo. É o ponto de partida honesto.
+
+A Nescience é uma fundação global, sem dono, sem produto e sem cliente. Sua única função é detectar quando um sistema de inteligência artificial deixa de ser confiável, e ter o poder de dizer isso em voz alta antes que seja tarde.
+
+Como ela faz isso? Com três ferramentas.
+
+Primeira: um modelo-polícia. Um sistema de inteligência artificial treinado do zero, com linhagem própria, para uma função apenas: detectar. Ele nunca foi otimizado para ser útil ou para agradar. É deliberadamente menos capaz que os sistemas que vigia, porque confiabilidade vem de ser previsível, não de ser brilhante.
+
+Segunda: um catálogo forense. Assim como a investigação de fraudes não precisa entender a mente do fraudador, só os rastros que ele deixa, nós catalogamos as assinaturas do engano em sistemas de IA. Modelos com defeitos conhecidos, armadilhas com resposta certa, padrões de sabotagem e de falsa conformidade.
+
+Terceira: uma infraestrutura de controle. Monitoramento contínuo, reamostragem em pontos suspeitos, interrogatórios de consistência. E acima de tudo, uma camada que não é modelo nenhum: permissões mínimas, registros imutáveis, e humanos com o botão de desligar.
+
+Mas quem vigia o vigilante?
+
+Essa é a pergunta que define a Nescience. Não pedimos que confiem na nossa moral. Pedimos que verifiquem nossa arquitetura.
+
+O capital de fundação é depositado uma vez e de forma irrevogável. Nenhum doador, empresa ou Estado, pode retirar ou condicionar sua parte depois.
+
+O conselho tem onze assentos em três bancadas: governos, cientistas e sociedade civil. Zero votos para laboratórios. Decisões graves exigem maioria em cada bancada separadamente.
+
+O nosso próprio modelo-polícia roda sob as mesmas regras que aplicamos aos outros: em sandbox, vigiado, desligável.
+
+E há uma cláusula de morte. Se a Nescience for dissolvida, seus segredos morrem com ela. Os pesos e os detectores ficam cifrados com uma chave dividida entre partes que não têm interesse em comum. Nenhum bloco sozinho reconstitui nada. A única forma de usar o que a Nescience sabe é mantê-la viva e funcionando como foi desenhada.
+
+Somos abertos por padrão e selados por exceção. Estatuto, contas, código e resultados são públicos. Guardamos em segredo apenas o que, publicado, armaria o adversário. E mesmo isso é visto por fiscais externos que publicam o que verificaram, sem publicar como.
+
+E há uma terceira fonte de dinheiro, além dos laboratórios e dos governos: você. Qualquer pessoa ou entidade pode doar, de qualquer país, em qualquer moeda, de forma anônima se quiser. Com um teto de um por cento por doador, para que o fundo cidadão seja de muitos, e nunca de um só. Dinheiro não compra voto. Mas os doadores do fundo cidadão elegem a bancada da sociedade civil: uma pessoa, um voto, independentemente do valor.
+
+Mentes que não compreendemos já trabalham entre nós. A pergunta não é se alguém vai vigiá-las. É se quem vigia será vigiado também.
+
+Nescience. Não acreditem em nós. Verifiquem.
